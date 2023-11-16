@@ -1,5 +1,5 @@
 # Vladislav Lepilkin
-
+![photo](photo.png)
 ## Contacts
 * Location: Krasnodar, Russia
 * Phone: +79002565191
